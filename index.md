@@ -1,5 +1,6 @@
 #  Elliot's First CS193 Homework
 
+
 - it only meets once a week
 - church vibes go hard
 - epic memes on the powerpoint
